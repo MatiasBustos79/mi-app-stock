@@ -1,0 +1,51 @@
+{
+  "name": "mi-app-stock",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^11.6.1",
+    "lucide-react": "^0.303.0",
+    "react": "^18.2.0",
+    "r    content="Aplicación de gestión de stock"
+    />
+    <title>Mi App de Stock</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Inter Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <noscript>Necesitas habilitar JavaScript para ejecutar esta aplicación.</noscript>
+    <div id="root"></div>
+    <!-- El script de tu aplicación se inyectará aquí automáticamente por el proceso de construcción -->
+  </body>
+</html>eact-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
